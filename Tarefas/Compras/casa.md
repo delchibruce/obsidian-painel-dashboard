@@ -1,0 +1,3 @@
+- [ ] água sanitária
+- [ ] cerveja
+- [ ] tesoura de desossar

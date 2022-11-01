@@ -1,0 +1,12 @@
+{
+  "baseFontSize": 10,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "painel_dashboard",
+    "largura_linhas_painel"
+  ],
+  "theme": "obsidian",
+  "accentColor": ""
+}

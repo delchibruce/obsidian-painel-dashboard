@@ -1,0 +1,4 @@
+- [ ] capacete de bicicleta para a pequena
+- [ ] escova de dentes
+- [ ] pasta de dente da raposinha
+- [ ] sapato/tênis 32, de unicórnio

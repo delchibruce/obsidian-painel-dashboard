@@ -1,0 +1,6 @@
+- [ ] arroz integral
+- [ ] peito de frango
+- [ ] aspargos
+- [ ] cenoura
+- [ ] tomate holandês
+- [ ] azeite

@@ -1,0 +1,2 @@
+- [ ] [caderno Cornell](https://amzn.to/3NjXHoU)
+- [ ] [nova garrafa d'Água](https://amzn.to/3WaKvGC)
